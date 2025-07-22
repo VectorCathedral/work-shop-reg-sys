@@ -19,7 +19,7 @@ Welcome to the **Sonke Sivukile Workshop Registration System** — a C++ console
 
 ## 📁 File Structure
 
-├── main.cpp # Main source code (this program)
+├── CSWRS.cpp # Main source code (this program)
 
 ├── workshops.txt # Input file containing courses and prices
 
@@ -48,7 +48,7 @@ AI Fundamentals,300
 
 Before compiling and running the program:
 
-1. Open `main.cpp` in your code editor.
+1. Open `CSWRS.cpp` in your code editor.
 2. Locate the following lines at the top of the file:
 
 ```cpp
