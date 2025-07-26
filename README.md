@@ -19,11 +19,15 @@ Welcome to the **Sonke Sivukile Workshop Registration System** — a C++ console
 
 ## 📁 File Structure
 
-├── CSWRS.cpp # Main source code (this program)
+├── CSWRS.cpp 
 
-├── workshops.txt # Input file containing courses and prices
+### Main source code (this program)
 
-├── workshop_out.txt # Output file for participant course selections
+├── workshops.txt 
+### Input file containing courses and prices
+
+├── workshop_out.txt 
+### Output file for participant course selections
 
 
 ---
